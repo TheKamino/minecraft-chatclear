@@ -1,0 +1,10 @@
+name: ChatClear
+version: 1.0
+main: de.kamikazozi.chatclear.ChatClear
+author: KamiKazozi
+
+commands:
+  chatclear:
+    aliases:
+      - clearchat
+      - cc
